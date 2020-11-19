@@ -5,5 +5,5 @@ The backend of a CRUD in REST with Quarkus
 https://quarkus.io/blog/eclipse-got-quarkused/
 
 ## How to use Swagger UI
-https://quarkus.io/guides/openapi-swaggerui
+https://quarkus.io/guides/openapi-swaggerui  
 http://localhost:8081/swagger-ui
